@@ -1,11 +1,11 @@
 
 
 
-Hey You there, Yes you 🫵
+Hey there, Yes you 🫵
  
 I'm Casmir Ifeanyi 👋
 
-👨‍💻 Data Analyst | 💼 Excel Enthusiast | 📊 Power BI & Tableau Fan | 🔍 SQL Lover
+👨‍💻A Data Analyst | 💼 Excel Enthusiast | 📊 Power BI & Tableau Fan | 🔍 SQL Lover
 
 I’m passionate about making data easy to understand and use. I help businesses turn complex data into clear insights that drive smarter decisions. Whether it’s cleaning up messy data or building interactive dashboards, I enjoy making data work for you.
 

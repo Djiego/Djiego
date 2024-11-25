@@ -9,7 +9,7 @@ Im also a fullstack web developer with knowledge in HTML,CSS,BOOTSTRAP, JAVASCRI
 
 🛠️SKIILL SET:
 
-| 💼 Excel Expert | 📊 Power BI, Tableau & 🔍 SQL Enthusiast
+| 💼 Excel Expert | 📊 Power BI, Tableau & 🔍 MySQL Enthusiast
 
 I’m passionate about making data easy to understand and use. I help businesses turn complex data into clear insights that drive smarter decisions. Whether it’s cleaning up messy data or building interactive dashboards, I enjoy making data work for you.
 
